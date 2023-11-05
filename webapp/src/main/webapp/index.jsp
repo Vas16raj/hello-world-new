@@ -18,6 +18,7 @@
           <input type="text" placeholder="username"/>
 	  <br>
           <input type="password" placeholder="password"/>
+	  <br>
           <button>login</button>
           <p class="message">Not registered? <a href="#">Create an account</a></p>
         </form>
