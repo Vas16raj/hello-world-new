@@ -20,7 +20,9 @@
           <input type="password" placeholder="password"/>
 	  <br>
           <button>login</button>
-          <p class="message">Not registered? <a href="#">Create an account</a></p>
+	  <p class="message">Not registered? </p>
+          <br>
+	  <a href="#">Create an account</a>
         </form>
       </div>
     </div>
